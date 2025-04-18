@@ -1,0 +1,203 @@
+<!-- CÓDIGO HTML COMPLETO ABAIXO -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pack Shopee Viral</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #fffdf9;
+      color: #1d1d1d;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    .top-section {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+
+    .text {
+      flex: 1;
+    }
+
+    .text h1 {
+      color: #ff4e00;
+      font-size: 1.3rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .text h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .text p {
+      font-size: 1.1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .cta-button {
+      background: #ff4e00;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      font-weight: bold;
+      font-size: 1rem;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .image {
+      flex: 1;
+      text-align: center;
+    }
+
+    .image img {
+      max-width: 300px;
+      border-radius: 20px;
+    }
+
+    .what-you-get {
+      margin-top: 3rem;
+    }
+
+    .what-you-get h3 {
+      color: #ff4e00;
+      font-size: 1.3rem;
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      font-size: 1.1rem;
+      line-height: 1.8;
+    }
+
+    .plans {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+
+    .plan-box {
+      flex: 1;
+      background: #ffffff;
+      padding: 1.5rem;
+      border-radius: 12px;
+      text-align: center;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    .plan-box h4 {
+      margin: 0.5rem 0;
+      font-size: 1.2rem;
+    }
+
+    .plan-box .price {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    .plan-box a {
+      display: inline-block;
+      background: #ff4e00;
+      color: white;
+      padding: 0.6rem 1.2rem;
+      border-radius: 6px;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    .benefits {
+      margin-top: 3rem;
+    }
+
+    .benefits h3 {
+      color: #ff4e00;
+      font-size: 1.3rem;
+    }
+
+    .benefits ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .benefits li {
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+
+    .bottom-cta {
+      text-align: center;
+      margin-top: 2.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="top-section">
+      <div class="text">
+        <h1>Pack Shopee Viral</h1>
+        <h2>3000 vídeos virais incríveis para vendedores da Shopee</h2>
+        <p>Acelere suas vendas com vídeos prontos, estratégias de gestão e muito mais!</p>
+        <a class="cta-button" href="https://pay.kiwify.com.br/L5iGYUm" target="_blank">ADQUIRA O SEU AGORA!</a>
+      </div>
+      <div class="image">
+        <img src="https://i.imgur.com/MqUz3rw.jpg" alt="Pack Shopee Viral" />
+      </div>
+    </div>
+
+    <div class="what-you-get">
+      <h3>O que você irá receber:</h3>
+      <ul>
+        <li>+3000 vídeos virais prontos para usar</li>
+        <li>E-book completo mostrando como começar do zero</li>
+        <li>Dicas práticas para gestão e vendas</li>
+        <li>Acesso ilimitado ao conteúdo</li>
+        <li>Atualizações gratuitas</li>
+      </ul>
+    </div>
+
+    <div class="plans">
+      <div class="plan-box">
+        <h4>Pack de Vídeos</h4>
+        <div class="price">R$ 34,99</div>
+        <a href="https://pay.kiwify.com.br/IbzcjSH" target="_blank">COMPRAR PACK</a>
+      </div>
+      <div class="plan-box">
+        <h4>Pack + E-book Completo</h4>
+        <div class="price">R$ 44,99</div>
+        <a href="https://pay.kiwify.com.br/L5iGYUm" target="_blank">EU QUERO O COMBO</a>
+      </div>
+    </div>
+
+    <div class="benefits">
+      <h3>Por que escolher este pack?</h3>
+      <ul>
+        <li>Economize tempo: vídeos prontos para aplicar</li>
+        <li>Elevado potencial de retorno sobre o investimento</li>
+        <li>Aprimore suas habilidades em gestão e vendas</li>
+        <li>Custo-benefício comprovado</li>
+      </ul>
+    </div>
+
+    <div class="bottom-cta">
+      <h2>Prepare-se para aumentar suas vendas!</h2>
+      <a class="cta-button" href="https://pay.kiwify.com.br/L5iGYUm" target="_blank">ADQUIRA O SEU AGORA!</a>
+    </div>
+  </div>
+</body>
+</html>
